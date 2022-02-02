@@ -1,3 +1,6 @@
 [submodule "hw0-intro-sp22-CeHao1"]
 	path = hw0-intro-sp22-CeHao1
 	url = https://github.com/cal-cs184-student/hw0-intro-sp22-CeHao1.git
+[submodule "p1-rasterizer-sp22-cehao"]
+	path = p1-rasterizer-sp22-cehao
+	url = https://github.com/cal-cs184-student/p1-rasterizer-sp22-cehao.git
