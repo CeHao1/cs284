@@ -7,3 +7,6 @@
 [submodule "sp22-project-webpages-CeHao1"]
 	path = sp22-project-webpages-CeHao1
 	url = https://github.com/cal-cs184-student/sp22-project-webpages-CeHao1
+[submodule "p2-meshedit-sp22-cehao1"]
+	path = p2-meshedit-sp22-cehao1
+	url = https://github.com/cal-cs184-student/p2-meshedit-sp22-cehao1.git
