@@ -1,5 +1,6 @@
 # cs284
-https://cs184.eecs.berkeley.edu/sp22
+https://cs184.eecs.berkeley.edu/sp22  
+checker:  https://rishiu.github.io/submission-checker/
 
 # write up repo 
 https://github.com/cal-cs184-student/sp22-project-webpages-CeHao1
