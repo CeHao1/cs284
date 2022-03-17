@@ -13,6 +13,4 @@
 [submodule "p3-1-pathtracer-sp22-cehao3"]
 	path = p3-1-pathtracer-sp22-cehao3
 	url = https://github.com/cal-cs184-student/p3-1-pathtracer-sp22-cehao3.git
-[submodule "p3-2-pathtracer-sp22-cehao_3_2"]
-	path = p3-2-pathtracer-sp22-cehao_3_2
-	url = https://github.com/cal-cs184-student/p3-2-pathtracer-sp22-cehao_3_2.git
+
