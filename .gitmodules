@@ -16,3 +16,6 @@
 [submodule "p3-2-pathtracer-sp22-cehao_3_2"]
 	path = p3-2-pathtracer-sp22-cehao_3_2
 	url = https://github.com/cal-cs184-student/p3-2-pathtracer-sp22-cehao_3_2.git
+[submodule "p4-clothsim-sp22-cehao-p4"]
+	path = p4-clothsim-sp22-cehao-p4
+	url = https://github.com/cal-cs184-student/p4-clothsim-sp22-cehao-p4.git
